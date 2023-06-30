@@ -1,8 +1,8 @@
 # Tana Exports
 Export your workspace, name the file `export.json` and place it in the root of the project.
 
-Run `npm install`
-Run `npm run start -- tagged-nodes <TAG_NAME>`
+- Run `npm install`
+- Run `npm run start -- tagged-nodes <TAG_NAME>`
 
 # Example output
 ```shell
